@@ -1,6 +1,7 @@
 {
   "name": "bloom-web",
-  "homepage": "https:///Dark-Lightcyber.github.com/Web-DL",
+  "homepage": "https:///Dark-Lightcyber.github.io/Web-DL/bloom/my-app",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,6 +21,7 @@
     "styled-components": "^6.1.15",
     "web-vitals": "^2.1.4"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -55,3 +57,4 @@
   "author": "",
   "license": "ISC"
 }
+
