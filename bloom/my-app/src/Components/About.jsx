@@ -24,7 +24,7 @@ const About = () => {
         {/* Latest Post Section */}
         <Grid item lg={2} md={3} sm={4} xs={12}>
           <Typography sx={{ fontWeight: 'bold', mb: '20px' }}>
-            Latest Post
+            Latest Post. 
           </Typography>
           <Box component="ul" sx={{ listStyleType: 'none', p: 0 }}>
             {['Month one', 'Month two', 'Month three'].map((month, idx) => (
